@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <li>Birth: Dec. 11, 2001</li>
 <li>Dept. of Software, KNU</li>
-<li>my <a href="https://www.naver.com/">Portfolio(What I will make a page soon)</a></li>
+<li>my <a href="https://www.naver.com/">Portfolio</a>(What I will make a page soon)</li>
 
 <h2>🌱Now I'm learning to..</h2>
 

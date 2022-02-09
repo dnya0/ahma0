@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Nayeong%20An&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Nayeong%20An&fontSize=90" />
+
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=NadudAn)](https://github.com/radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadudAn&layout=compact)](https://github.com/NadudAn/github-readme-stats)

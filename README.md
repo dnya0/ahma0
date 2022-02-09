@@ -22,18 +22,19 @@ Here are some ideas to get you started:
 <li>Dept. of Software, KNU</li>
 <li>my <a href="https://www.naver.com/">Portfolio</a>(What I will make a page soon)</li>
 
+<ul>
+  
+  <h2>🌱Now I'm learning to..</h2>
+  
+  <img src="https://img.shields.io/badge/-HTML-F29661?style=flat&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/-JavaScript-DAD9FF?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-JSP-FFA7A7?style=flat&logo=Java&logoColor=black"/>
 
+  
+  <h2>🛠Skills</h2>
+  
+  <img src="https://img.shields.io/badge/-C-FAECC5?style=flat&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/-JAVA-E4F7BA?style=flat&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/-PYTHON-D4F4FA?style=flat&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/-Android-1DDB16?style=flat&logo=Android&logoColor=black"/>
 
-<h2>🌱Now I'm learning to..</h2>
-
-<img src="https://img.shields.io/badge/-HTML-F29661?style=flat&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/-JavaScript-DAD9FF?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-JSP-FFA7A7?style=flat&logo=Java&logoColor=black"/>
-
-
-
-<h2>🛠Skills</h2>
-
-<img src="https://img.shields.io/badge/-C-FAECC5?style=flat&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/-JAVA-E4F7BA?style=flat&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/-PYTHON-D4F4FA?style=flat&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/-Android-1DDB16?style=flat&logo=Android&logoColor=black"/>
-
+</ul>
+<p><br><br></p>
 
 
 <!--![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=NadudAn&show_icons=true&theme=radical)-->

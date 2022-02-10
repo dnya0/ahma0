@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 <!--![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=NadudAn&show_icons=true&theme=radical)-->
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dsd932)](https://solved.ac/profile/dsd932)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadudAn&layout=compact)](https://github.com/NadudAn/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadudAn&layout=compact)](https://github.com/NadudAn/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadudAn)](https://github.com/NadudAn/github-readme-stats)
 

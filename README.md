@@ -26,12 +26,21 @@ Here are some ideas to get you started:
   
   <h2>🌱Now I'm learning to..</h2>
   
-  <img src="https://img.shields.io/badge/-JavaScript-DAD9FF?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-JSP-FFA7A7?style=flat&logo=Java&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-JavaScript-DAD9FF?style=flat&logo=JavaScript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/-JSP-FFA7A7?style=flat&logo=Java&logoColor=black"/>
 
   
-  <h2>🛠Skills</h2>
-  
-  <img src="https://img.shields.io/badge/-C-FAECC5?style=flat&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/-JAVA-E4F7BA?style=flat&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/-PYTHON-D4F4FA?style=flat&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/-Android-1DDB16?style=flat&logo=Android&logoColor=black"/> <img src="https://img.shields.io/badge/-HTML-F29661?style=flat&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/-CSS-FFE400?style=flat&logo=CSS3&logoColor=black"/>
+  <h2>🛠Skills🛠</h2>
+
+  <!-- https://simpleicons.org/에서 아이콘 찾기 -->
+  <img src="https://img.shields.io/badge/-C-FAECC5?style=flat&logo=C&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-JAVA-E4F7BA?style=flat&logo=Java&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/-PYTHON-D4F4FA?style=flat&logo=Python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-R-6B66FF?style=flat&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-5CD1E5?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Android-1DDB16?style=flat&logo=Android&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-HTML-F29661?style=flat&logo=HTML5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-CSS-FFE400?style=flat&logo=CSS3&logoColor=black"/>
 
 </ul>
 <p><br><br></p>

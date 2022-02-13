@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <li>Birth: Dec. 11, 2001</li>
 <li>Dept. of Software, KNU</li>
-<li>my <a href="https://nadudan.github.io/">Portfolio</a>(What I making it)</li>
+<li>My <a href="https://nadudan.github.io/">Portfolio</a></li>
 
 <ul>
   

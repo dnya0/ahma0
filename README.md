@@ -43,13 +43,16 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=150&section=header&text=Nayeong%20An&fontSize=90&fontColor=4C4C4C" />
 
-<h1>✨안나영(Nayeong An)✨</h1>
+<h1 align="center">✨안나영(Nayeong An)✨</h1>
 
-<a href="mailto:dsd.work12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
-<a href="mailto:dsd932@naver.com"><img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
-<a href="https://www.linkedin.com/in/nayeong-an-486463231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> 
-<a href="https://instagram.com/@want_another_place"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
-
+<div align="center">
+  <a href="mailto:dsd.work12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+  <a href="mailto:dsd932@naver.com"><img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/nayeong-an-486463231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> 
+  <a href="https://instagram.com/@want_another_place"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
+</div>
+  
+  
 <ul>
   <li>Birth: Dec. 11, 2001</li>
   <li>Nationality: Republic of Korea</li>

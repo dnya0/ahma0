@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <h2>🌱Now I'm learning to..</h2>
   
   <img src="https://img.shields.io/badge/-JavaScript-DAD9FF?style=flat&logo=JavaScript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/-Node.js-3F0099?style=flat&logo=Node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-JSP-FFA7A7?style=flat&logo=Java&logoColor=black"/>
 
   

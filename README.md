@@ -45,7 +45,10 @@ Here are some ideas to get you started:
 
 <h1>✨안나영(Nayeong An)✨</h1>
 
-<a href="mailto:dsd.work12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/nayeong-an-486463231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="https://instagram.com/@want_another_place"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:dsd932@naver.com"><img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+<a href="mailto:dsd.work12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+<a href="mailto:dsd932@naver.com"><img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/nayeong-an-486463231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> 
+<a href="https://instagram.com/@want_another_place"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 
 <ul>
   <li>Birth: Dec. 11, 2001</li>

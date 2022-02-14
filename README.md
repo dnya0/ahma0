@@ -26,22 +26,22 @@ Here are some ideas to get you started:
   
   <h2>🌱Now I'm learning to..</h2>
   
-  <img src="https://img.shields.io/badge/-JavaScript-DAD9FF?style=flat&logo=JavaScript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/-Node.js-3F0099?style=flat&logo=Node.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-JSP-FFA7A7?style=flat&logo=Java&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-JSP-007396?style=flat&logo=Java&logoColor=white"/>
 
   
   <h2>🛠Skills🛠</h2>
 
   <!-- https://simpleicons.org/에서 아이콘 찾기 -->
-  <img src="https://img.shields.io/badge/-C-FAECC5?style=flat&logo=C&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-JAVA-E4F7BA?style=flat&logo=Java&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/-PYTHON-D4F4FA?style=flat&logo=Python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-R-6B66FF?style=flat&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-5CD1E5?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Android-1DDB16?style=flat&logo=Android&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-HTML-F29661?style=flat&logo=HTML5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-CSS-FFE400?style=flat&logo=CSS3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 
 </ul>
 <p><br><br></p>

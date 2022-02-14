@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <h1>✨안나영(Nayeong An)✨</h1>
 
-<li>Birth: Dec. 11, 2001</li>
-<li>Dept. of Software, KNU</li>
-<li>My <a href="https://nadudan.github.io/">Portfolio</a></li>
-
 <ul>
+  <li>Birth: Dec. 11, 2001</li>
+  <li>Nationality: Republic of Korea</li>
+  <li>Dept. of Software, KNU</li>
+  <li>My <a href="https://nadudan.github.io/">Portfolio</a></li>
   
   <h2>🌱Now I'm learning to..</h2>
   

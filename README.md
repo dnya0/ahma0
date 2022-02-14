@@ -45,36 +45,36 @@ Here are some ideas to get you started:
 
 <h1>✨안나영(Nayeong An)✨</h1>
 
+<a href="mailto:dsd.work12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/nayeong-an-486463231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="https://instagram.com/@want_another_place"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:dsd932@naver.com"><img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+
 <ul>
   <li>Birth: Dec. 11, 2001</li>
   <li>Nationality: Republic of Korea</li>
   <li>Dept. of Software, KNU</li>
   <li>My <a href="https://nadudan.github.io/">Portfolio</a></li>
   
-  <h2 align="left">📫Connect with me:</h2>
-  <p align="left">
-    <a href="https://instagram.com/@want_another_place" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@want_another_place" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/nayeong-an-486463231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsd932" height="30" width="40" /></a>
-  </p>
   
   <h2>🌱Now I'm learning to..</h2>
   
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-JSP-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=Java&logoColor=white"/>
 
   
   <h2>🛠Skills🛠</h2>
 
   <!-- https://simpleicons.org/에서 아이콘 찾기 -->
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <h3>Language:</h3>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=Java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  
+  <h3>Platforms:</h3>
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
 </ul>
 <p><br><br></p>

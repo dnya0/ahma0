@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=150&section=header&text=Nayeong%20An&fontSize=90&fontColor=4C4C4C" />
+<a href="https://github.com/NadudAn"><img src="https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=150&section=header&text=Nayeong%20An&fontSize=90&fontColor=4C4C4C" /></a>
 
 <h1 align="center">✨안나영(Nayeong An)✨</h1>
 

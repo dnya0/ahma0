@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <ul>
     <li>Birth: Dec. 11, 2001</li>
     <li>Nationality: Republic of Korea</li>
-    <li>Dept. of Software, KNU</li>
+    <li>KNU Dept. of Software</li>
     <!--<li>My <a href="https://nadudan.github.io/">Portfolio</a></li>-->
   </ul>
   

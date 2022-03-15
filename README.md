@@ -49,7 +49,8 @@ Here are some ideas to get you started:
   <a href="mailto:dsd.work12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
   <a href="mailto:dsd932@naver.com"><img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/nayeong-an-486463231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> 
-  <a href="https://instagram.com/want_another_place"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
+  <a href="https://instagram.com/na0._.a"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <!--a href="https://instagram.com/want_another_place"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a--> 
   <a href="https://discord.gg/#8848"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNadudAn&count_bg=%23D8CCFF&title_bg=%23848484&icon=aerlingus.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 </div>

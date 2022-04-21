@@ -67,12 +67,12 @@ Here are some ideas to get you started:
     <!--<li>My <a href="https://nadudan.github.io/">Portfolio</a></li>-->
   </ul>
   
-  <h2>🌱Now I'm learning to..</h2>
+<!--   <h2>🌱Now I'm learning to..</h2>
   
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=Java&logoColor=white"/>
 
-  
+   -->
   <h2>🛠Skills🛠</h2>
 
   <!-- https://simpleicons.org/에서 아이콘 찾기 -->

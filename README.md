@@ -47,13 +47,19 @@
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=NadudAn)-->
 
 <h2>⚙️States⚙️</h2>
-</ul>
+
 <p align="center">
 <a href="https://github.com/NadudAn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NadudAn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NadudAn&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
+
+<h2>🐍Snake🐍</h2>
+
+![snake gif](https://github.com/NadudAn/NadudAn/blob/output/github-contribution-grid-snake.svg)
+
+</ul>
 
 <!-- ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=NadudAn&show_icons=true&theme=radical) -->
 <!--[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dsd932)](https://solved.ac/profile/dsd932)-->

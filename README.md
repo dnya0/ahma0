@@ -17,7 +17,7 @@
   <h2>🔭Introduction🔭</h2>
   
   <p>
-    Hello👋, I'm Nayeong who want to be a Back-end Enginner🚀<br>
+    Hello👋, I'm Nayeong who want to be a Back-end Engineer🚀<br>
     I enjoy swimming, reading, and singing. 🏊📖
   </p>
   

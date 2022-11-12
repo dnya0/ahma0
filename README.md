@@ -32,11 +32,11 @@
   <ul>
   <li> My main skills are... </li>
     <div style="display: flex; align-items: flex-start;">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
-      <!--img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80" /-->
-      <img src="https://user-images.githubusercontent.com/38103085/181780616-1a299b1f-990a-468b-b708-dec753ba7851.png" alt="spring" wide="70" height="70">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWLKck6Cl6wti0x9FVQEBIEvmRMO7hpNy8iaoGX2J2_vIJb5jlMpojooxHPOwK9hJdtA&usqp=CAU" alt="spring" wide="70" height="70">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
+      <!--img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" /-->
+      <img src="https://user-images.githubusercontent.com/38103085/181780616-1a299b1f-990a-468b-b708-dec753ba7851.png" alt="spring" wide="50" height="50">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWLKck6Cl6wti0x9FVQEBIEvmRMO7hpNy8iaoGX2J2_vIJb5jlMpojooxHPOwK9hJdtA&usqp=CAU" alt="spring" wide="50" height="50">
     </div>
     
  <li> I've learned </li><br>

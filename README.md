@@ -1,7 +1,5 @@
 <a href="https://github.com/NadudAn"><img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=4&height=180&section=header&text=Nayeong%20An&fontSize=50&animation=twinkling" /></a>
 
-<h1 align="center">✨안나영(Nayeong An)✨</h1>
-
 <div align="center">
   <a href="https://nadudan.github.io/"><img src="https://img.shields.io/badge/-Tech_Blog-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:dsd.work12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
@@ -14,37 +12,49 @@
   
 <ul>
   
-  <h2>🔭Introduction🔭</h2>
+  <!--h2>🔭Introduction🔭</h2-->
+  <h2>Hello👋, I'm Nayeong</h2>
   
   <p>
     Hello👋, I'm Nayeong who want to be a Back-end Engineer🚀<br>
     I enjoy swimming, reading, and singing. 🏊📖
   </p>
   
-  <ul>
+  <!-- <ul>
     <li>Name: Nayeong An</li>
     <li>Birth: Dec. 11, 2001</li>
     <li>Nationality: Republic of Korea</li>
     <li>KNU Dept. of Software</li>
-  </ul>
+  </ul> -->
   
   <h2>🛠Skills🛠</h2>
-
+  
+  <ul>
+  <li> My main skills are... </li>
+    <div style="display: flex; align-items: flex-start;">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
+      <!--img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80" /-->
+      <img src="https://user-images.githubusercontent.com/38103085/181780616-1a299b1f-990a-468b-b708-dec753ba7851.png" alt="spring" wide="70" height="70">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWLKck6Cl6wti0x9FVQEBIEvmRMO7hpNy8iaoGX2J2_vIJb5jlMpojooxHPOwK9hJdtA&usqp=CAU" alt="spring" wide="70" height="70">
+    </div>
+    
+ <li> I've learned </li><br>
   <!-- https://simpleicons.org/에서 아이콘 찾기 -->
-  <div align = "center">
+  
+  <div>
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=Java&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   </div>
-
-<!--![trophy](https://github-profile-trophy.vercel.app/?username=NadudAn)-->
+  
+  <!--![trophy](https://github-profile-trophy.vercel.app/?username=NadudAn)-->
+</ul>
 
 <h2>⚙️States⚙️</h2>
 

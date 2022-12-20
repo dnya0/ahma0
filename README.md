@@ -6,6 +6,7 @@
   <a href="mailto:dsd932@naver.com"><img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/nayeong-an-486463231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> 
   <a href="https://discord.gg/#8848"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+  <a href="https://solved.ac/dsd932"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dsd932"/></a>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNadudAn&count_bg=%23D8CCFF&title_bg=%23848484&icon=aerlingus.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 </div>
   
@@ -35,7 +36,7 @@
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
       <!--img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" /-->
-      <img src="https://user-images.githubusercontent.com/38103085/181780616-1a299b1f-990a-468b-b708-dec753ba7851.png" alt="spring" wide="50" height="50">
+      <img src="https://user-images.githubusercontent.com/84761609/208699101-7a6bfda7-2512-46de-979d-c58baabc582e.png" alt="spring" wide="50" height="50">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWLKck6Cl6wti0x9FVQEBIEvmRMO7hpNy8iaoGX2J2_vIJb5jlMpojooxHPOwK9hJdtA&usqp=CAU" alt="spring" wide="50" height="50">
     </div>
     

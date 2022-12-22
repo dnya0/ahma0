@@ -35,9 +35,9 @@
     <div style="display: flex; align-items: flex-start;">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
-      <!--img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" /-->
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />
       <img src="https://user-images.githubusercontent.com/84761609/208699101-7a6bfda7-2512-46de-979d-c58baabc582e.png" alt="spring" wide="50" height="50">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWLKck6Cl6wti0x9FVQEBIEvmRMO7hpNy8iaoGX2J2_vIJb5jlMpojooxHPOwK9hJdtA&usqp=CAU" alt="spring" wide="50" height="50">
+      <!--img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWLKck6Cl6wti0x9FVQEBIEvmRMO7hpNy8iaoGX2J2_vIJb5jlMpojooxHPOwK9hJdtA&usqp=CAU" alt="androidStudio" wide="50" height="50"-->
     </div>
     
  <li> I've learned </li><br>
@@ -51,10 +51,10 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   </div>
-  
-  <!--![trophy](https://github-profile-trophy.vercel.app/?username=NadudAn)-->
+ 
 </ul>
 
 <h2>⚙️States⚙️</h2>
@@ -71,9 +71,3 @@
 ![snake gif](https://github.com/NadudAn/NadudAn/blob/output/github-contribution-grid-snake.svg)
 
 </ul>
-
-<!-- ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=NadudAn&show_icons=true&theme=radical) -->
-<!--[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dsd932)](https://solved.ac/profile/dsd932)-->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadudAn&layout=compact)](https://github.com/NadudAn/github-readme-stats) -->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadudAn)](https://github.com/NadudAn/github-readme-stats)-->
-

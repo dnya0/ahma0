@@ -66,8 +66,8 @@
 </a>
 </p>
 
-<h2>🐍Snake🐍</h2>
+<!-- <h2>🐍Snake🐍</h2>
 
-![snake gif](https://github.com/NadudAn/NadudAn/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NadudAn/NadudAn/blob/output/github-contribution-grid-snake.svg) -->
 
 </ul>

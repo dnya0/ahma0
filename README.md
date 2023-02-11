@@ -1,13 +1,13 @@
-<a href="https://github.com/NadudAn"><img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=4&height=180&section=header&text=Nayeong%20An&fontSize=50&animation=twinkling" /></a>
+<a href="https://github.com/ahma0"><img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=4&height=180&section=header&text=Nayeong%20Ahn&fontSize=50&animation=twinkling" /></a>
 
 <div align="center">
-  <a href="https://nadudan.github.io/"><img src="https://img.shields.io/badge/-Tech_Blog-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://ahma0.github.io/"><img src="https://img.shields.io/badge/-Tech_Blog-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:dsd.work12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
   <a href="mailto:dsd932@naver.com"><img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/nayeong-an-486463231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> 
   <!--a href="https://discord.gg/#8848"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a-->
   <a href="https://solved.ac/dsd932"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dsd932"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNadudAn&count_bg=%23D8CCFF&title_bg=%23848484&icon=aerlingus.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahma0&count_bg=%23D8CCFF&title_bg=%23848484&icon=aerlingus.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 </div>
   
   
@@ -60,14 +60,10 @@
 <h2>⚙️States⚙️</h2>
 
 <p align="center">
-<a href="https://github.com/NadudAn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NadudAn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NadudAn&layout=compact&langs_count=8&theme=radical"/>
+<a href="https://github.com/ahma0">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahma0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahma0&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-
-<!-- <h2>🐍Snake🐍</h2>
-
-![snake gif](https://github.com/NadudAn/NadudAn/blob/output/github-contribution-grid-snake.svg) -->
 
 </ul>

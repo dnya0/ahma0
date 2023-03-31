@@ -1,4 +1,4 @@
-<a href="https://github.com/ahma0"><img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=4&height=180&section=header&text=Nayeong%20Ahn&fontSize=50&animation=twinkling" /></a>
+<a href="https://github.com/ahma0"><img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=6&height=180&section=header&text=Nayeong%20Ahn&fontSize=50&animation=twinkling" /></a>
 
 <div align="center">
   <a href="https://ahma0.github.io/"><img src="https://img.shields.io/badge/-Tech_Blog-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -53,6 +53,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
   </div>
  
 </ul>

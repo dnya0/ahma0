@@ -14,7 +14,7 @@
 <ul>
   
   <!--h2>🔭Introduction🔭</h2-->
-  <h2>Hello👋, I'm Nayeong</h2>
+  <h2>Hello👋, I'm Nayeong <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
   
   <p>
     Hello👋, I'm Nayeong who want to be a Back-end Engineer🚀<br>

@@ -1,47 +1,36 @@
 <a href="https://github.com/ahma0"><img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=6&height=180&section=header&text=Nayeong%20Ahn&fontSize=50&animation=twinkling" /></a>
 
+<h3 align="center">백엔드 개발자가 되고싶은 안나영입니다 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>
+
 <div align="center">
+  <!-- https://simpleicons.org/에서 아이콘 찾기 -->
   <a href="https://ahma0.github.io/"><img src="https://img.shields.io/badge/-Tech_Blog-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:dsd.work12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+  <a href="mailto:annay01794@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
   <a href="mailto:dsd932@naver.com"><img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/nayeong-an-486463231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> 
-  <!--a href="https://discord.gg/#8848"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a-->
   <a href="https://solved.ac/dsd932"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dsd932"/></a>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahma0&count_bg=%23D8CCFF&title_bg=%23848484&icon=aerlingus.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 </div>
-  
+
+<br>
   
 <ul>
   
-  <!--h2>🔭Introduction🔭</h2-->
-  <h2>Hello👋, I'm Nayeong <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
-  
-  <p>
-    Hello👋, I'm Nayeong who want to be a Back-end Engineer🚀<br>
-    I enjoy swimming, reading, and singing. 🏊📖
-  </p>
-  
-  <!-- <ul>
-    <li>Name: Nayeong An</li>
-    <li>Birth: Dec. 11, 2001</li>
-    <li>Nationality: Republic of Korea</li>
-    <li>KNU Dept. of Software</li>
-  </ul> -->
-  
-  <h2>🛠Skills🛠</h2>
+  <h3 align="center">🍡 Tech Stack 🍡</h3>
   
   <ul>
-  <li> My main skills are... </li>
-    <div style="display: flex; align-items: flex-start;">
+  <!--li> My main skills are... </li-->
+    <div align="center" style="display: align-items: flex-start;">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />
-      <img src="https://user-images.githubusercontent.com/84761609/208699101-7a6bfda7-2512-46de-979d-c58baabc582e.png" alt="spring" wide="50" height="50">
-      <!--img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWLKck6Cl6wti0x9FVQEBIEvmRMO7hpNy8iaoGX2J2_vIJb5jlMpojooxHPOwK9hJdtA&usqp=CAU" alt="androidStudio" wide="50" height="50"-->
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />  
+      &nbsp;
+      <img src="https://user-images.githubusercontent.com/84761609/208699101-7a6bfda7-2512-46de-979d-c58baabc582e.png" alt="spring" wide="50" height="50">  
+      &nbsp;
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
     </div>
     
- <li> I've learned </li><br>
-  <!-- https://simpleicons.org/에서 아이콘 찾기 -->
+ <!--li> I've learned </li><br>
   
   <div>
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
@@ -54,11 +43,13 @@
     <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
-  </div>
+  </div-->
  
 </ul>
 
-<h2>⚙️States⚙️</h2>
+<br>
+
+<br>
 
 <p align="center">
 <a href="https://github.com/ahma0">

@@ -17,11 +17,11 @@
 ### 🍡 Tech Stack 🍡
 
 <div>
+  <img src="https://user-images.githubusercontent.com/84761609/208699101-7a6bfda7-2512-46de-979d-c58baabc582e.png" alt="spring" wide="50" height="50">  
+      &nbsp;
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />  
-      &nbsp;
-     <img src="https://user-images.githubusercontent.com/84761609/208699101-7a6bfda7-2512-46de-979d-c58baabc582e.png" alt="spring" wide="50" height="50">  
       &nbsp;
      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 </div>

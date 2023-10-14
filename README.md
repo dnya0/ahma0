@@ -6,7 +6,7 @@
 
   <!-- https://simpleicons.org/에서 아이콘 찾기 -->
   <a href="https://ahma0.github.io/"><img src="https://img.shields.io/badge/-Tech_Blog-4E5EE4?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://www.notion.so/62f1572ac27d46b581f502d286ad2c74?pvs=4"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://aquatic-fernleaf-792.notion.site/62f1572ac27d46b581f502d286ad2c74?pvs=4"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="mailto:annay01794@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
   <a href="mailto:dsd932@naver.com"><img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/nayeong-an-486463231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> 

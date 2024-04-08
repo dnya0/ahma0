@@ -18,19 +18,20 @@
 ### 🍡 Tech Stack 🍡
 
 <div>
-<!-- <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> -->
-<!--img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /-->
-<!-- <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> -->
-<!-- <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/amazon%20ec2-%23FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white" />
  
-  <img src="https://user-images.githubusercontent.com/84761609/208699101-7a6bfda7-2512-46de-979d-c58baabc582e.png" alt="spring" wide="50" height="50">  
-      &nbsp;
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />  
-      &nbsp;
-     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+ <!-- <img src="https://user-images.githubusercontent.com/84761609/208699101-7a6bfda7-2512-46de-979d-c58baabc582e.png" alt="spring" wide="50" height="50">  -->
+<!--       &nbsp; -->
+<!--     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" /> -->
+<!--     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" /> -->
+<!--     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />   -->
+<!--       &nbsp; -->
+<!--      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> -->
 </div>
 
 

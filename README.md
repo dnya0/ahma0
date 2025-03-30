@@ -14,7 +14,7 @@
 ### ⚙️ Skills
 
 <a href="https://github.com/ahma0">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,vue,nest,postgres,aws" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,aws" />
 </a>
 <br>
 <br>
